@@ -1,1 +1,1 @@
-# coreJavaProject
+# CoreJavaProject
